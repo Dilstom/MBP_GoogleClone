@@ -1,0 +1,6 @@
+.mainContent_wrapper {
+    display: flex;
+    justify-content: center;
+    height: 2rem;
+    align-items: center;
+}

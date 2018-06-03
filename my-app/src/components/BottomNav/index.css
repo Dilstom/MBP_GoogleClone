@@ -1,0 +1,7 @@
+.bottomNav_wrapper {
+    display: flex;
+    justify-content: center;
+    height: 2.5rem;
+    align-items: center;
+    background-color: #f2f2f2;
+}

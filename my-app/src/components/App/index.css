@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  text-align: center;
+  min-width: 978px;
+}
+
+.App div {
+  /* border: 1px solid mediumseagreen; */
+}
+
+/* .top {
+  align-self: flex-start;
+}
+
+.main {
+  align-self: center;
+}
+
+.bottom {
+  align-self: flex-end;
+} */
