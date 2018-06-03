@@ -17,6 +17,8 @@
     width: 450px;
     align-self: center;
     height: 2rem;
+    box-shadow: 0 2px 8px #C5C5C5;
+    border: 1px solid #C5C5C5;
 }
 
 .search_buttons {

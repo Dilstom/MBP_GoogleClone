@@ -24,6 +24,7 @@ class MainContent extends Component {
     }
 
     handleFeeling = () => {
+        if (this.state.searchCriteria === '') return;
         window.location.href = `https://www.${this.state.searchCriteria}.com`
     }
     render() {
